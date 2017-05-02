@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/devmachine/Desktop/Vector-Pinball/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/devmachine/Desktop/Vector-Pinball/app/build/intermediates/res/merged/debug/xml/preferences_nomultitouch.xml",
+        "source": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/xml/preferences_nomultitouch.xml"
+    }
+]

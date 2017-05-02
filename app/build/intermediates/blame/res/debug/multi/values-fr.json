@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "/Users/devmachine/Desktop/Vector-Pinball/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 72,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 976,
+                        "endColumn": 72,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 63,
+                    "endOffset": 239
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1174,
+                        "endColumn": 63,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 244,
+                    "endColumn": 59,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 59,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 94,
+                    "endOffset": 394
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 94,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 399,
+                    "endColumn": 89,
+                    "endOffset": 484
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 89,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 489,
+                    "endColumn": 65,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 422,
+                        "endColumn": 65,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endColumn": 109,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 109,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 116,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 116,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 81,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 81,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 864,
+                    "endColumn": 60,
+                    "endOffset": 920
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 727,
+                        "endColumn": 60,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 925,
+                    "endColumn": 64,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 64,
+                        "endOffset": 1169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 63,
+                    "endOffset": 1049
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 63,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1054,
+                    "endColumn": 48,
+                    "endOffset": 1098
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 678,
+                        "endColumn": 48,
+                        "endOffset": 722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1103,
+                    "endColumn": 67,
+                    "endOffset": 1166
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 67,
+                        "endOffset": 1301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1171,
+                    "endColumn": 62,
+                    "endOffset": 1229
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 912,
+                        "endColumn": 62,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1234,
+                    "endColumn": 59,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 852,
+                        "endColumn": 59,
+                        "endOffset": 907
+                    }
+                }
+            }
+        ]
+    }
+]
