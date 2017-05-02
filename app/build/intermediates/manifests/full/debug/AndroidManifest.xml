@@ -29,6 +29,8 @@
         </activity>
         <activity android:name="com.dozingcatsoftware.bouncy.BouncyPreferences" >
         </activity>
+        <activity android:name="com.dozingcatsoftware.bouncy.TopScoreActivity" >
+        </activity>
     </application>
 
 </manifest>

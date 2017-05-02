@@ -29,6 +29,8 @@
         </activity>
         <activity android:name="BouncyPreferences" >
         </activity>
+        <activity android:name="TopScoreActivity">
+        </activity>
     </application>
 
 </manifest>

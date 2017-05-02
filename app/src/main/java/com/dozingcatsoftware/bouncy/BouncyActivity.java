@@ -31,6 +31,8 @@ public class BouncyActivity extends Activity {
     CanvasFieldView canvasFieldView;
     GLFieldView glFieldView;
     ScoreView scoreView;
+    Boolean hasScores = false;
+    int numScores;
 
     View buttonPanel;
     Button switchTableButton;
@@ -78,7 +80,7 @@ public class BouncyActivity extends Activity {
 
         fieldViewManager.setField(field);
         fieldViewManager.setStartGameAction(new Runnable() {@Override
-            public void run() {doStartGame(null);}});
+        public void run() {doStartGame(null);}});
 
         scoreView = (ScoreView)findViewById(R.id.scoreView);
         scoreView.setField(field);
@@ -87,6 +89,13 @@ public class BouncyActivity extends Activity {
         fieldDriver.setField(field);
 
         highScores = this.highScoresFromPreferencesForCurrentLevel();
+        numScores = highScores.size();
+        if(highScores.size() > 1){
+            hasScores = true;
+        }
+        else{
+            hasScores = false;
+        }
         scoreView.setHighScores(highScores);
 
         buttonPanel = findViewById(R.id.buttonPanel);
@@ -220,6 +229,12 @@ public class BouncyActivity extends Activity {
 
     void gotoAbout() {
         AboutActivity.startForLevel(this, this.level);
+    }
+
+    void gotoHighScores() {
+
+        TopScoreActivity.startForLevel(this, this.highScores, hasScores);
+
     }
 
     // Update settings from preferences, called at launch and when preferences activity finishes.
@@ -409,6 +424,7 @@ public class BouncyActivity extends Activity {
         // Game might be paused, if manually ended from button.
         unpauseGame();
         field.endGame();
+        hasScores = true;
     }
 
     public void doPreferences(View view) {
@@ -442,5 +458,16 @@ public class BouncyActivity extends Activity {
         this.setInitialLevel(level);
         this.highScores = this.highScoresFromPreferencesForCurrentLevel();
         scoreView.setHighScores(highScores);
+
+        if(highScores.size() > 1){
+            hasScores = true;
+        }
+        else{
+            hasScores = false;
+        }
+    }
+
+    public void doTopScores(View view){
+        gotoHighScores();
     }
 }

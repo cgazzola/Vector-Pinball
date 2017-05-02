@@ -1,19 +1,10 @@
 [
     {
-<<<<<<< HEAD
         "merged": "/Users/devmachine/Desktop/Vector-Pinball/app/build/intermediates/res/merged/debug/raw/androidpad.ogg",
         "source": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/raw/androidpad.ogg"
     },
     {
         "merged": "/Users/devmachine/Desktop/Vector-Pinball/app/build/intermediates/res/merged/debug/raw/drumbassloop.ogg",
         "source": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/raw/drumbassloop.ogg"
-=======
-        "merged": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\androidpad.ogg",
-        "source": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\raw\\androidpad.ogg"
-    },
-    {
-        "merged": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\drumbassloop.ogg",
-        "source": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\raw\\drumbassloop.ogg"
->>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
     }
 ]

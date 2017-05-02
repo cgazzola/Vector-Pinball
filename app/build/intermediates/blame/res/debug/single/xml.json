@@ -1,19 +1,10 @@
 [
     {
-<<<<<<< HEAD
         "merged": "/Users/devmachine/Desktop/Vector-Pinball/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/xml/preferences.xml"
     },
     {
         "merged": "/Users/devmachine/Desktop/Vector-Pinball/app/build/intermediates/res/merged/debug/xml/preferences_nomultitouch.xml",
         "source": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/xml/preferences_nomultitouch.xml"
-=======
-        "merged": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
-        "source": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\xml\\preferences.xml"
-    },
-    {
-        "merged": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences_nomultitouch.xml",
-        "source": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\xml\\preferences_nomultitouch.xml"
->>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
     }
 ]

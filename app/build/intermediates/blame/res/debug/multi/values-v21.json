@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "outputFile": "/Users/devmachine/Desktop/Vector-Pinball/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
-=======
-        "outputFile": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
->>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
         "map": [
             {
                 "to": {
@@ -15,7 +11,6 @@
                     "endOffset": 139
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values-v21/styles.xml",
                     "position": {
                         "startLine": 2,
@@ -23,15 +18,6 @@
                         "startOffset": 55,
                         "endColumn": 95,
                         "endOffset": 146
-=======
-                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values-v21\\styles.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 57,
-                        "endColumn": 95,
-                        "endOffset": 148
->>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             }

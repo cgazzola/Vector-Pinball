@@ -31,4 +31,10 @@
 	<string name="unlimited_balls_label">Unlimited Balls</string>
     <string name="vibration_label">Vibration</string>
 
+    <string name="top_scores">Top Scores</string>
+
+
+    <string name = "has_board_scores">Top 5 Scores for this board:</string>
+    <string name = "no_board_scores">This board has no top scores yet.</string>
+
 </resources>
