@@ -28,6 +28,7 @@
 	<string name="help_button_label">Help</string>
 	<string name="preferences_button_label">Preferences</string>
 	<string name="end_game_button_label">End Game</string>
-	<string name="unlimited_balls_label">Unlimited Balls</string>
+    <string name="vibration_label">Vibration</string>
+    <string name="unlimited_balls_label">Unlimited Balls</string>
 
 </resources>
