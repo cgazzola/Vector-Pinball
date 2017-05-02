@@ -46,8 +46,15 @@
             android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/preferences_button_label" />
 	    </LinearLayout>
 	    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+<<<<<<< HEAD
 	        <CheckBox android:id="@+id/unlimitedBallsToggle" android:text="@string/unlimited_balls_label"
 	            android:layout_width="wrap_content" android:layout_height="wrap_content" />
+=======
+			<CheckBox android:id="@+id/unlimitedBallsToggle" android:text="@string/unlimited_balls_label"
+				android:layout_width="wrap_content" android:layout_height="wrap_content" />
+			<CheckBox android:id="@+id/vibrationToggle" android:text="@string/vibration_label"
+				android:layout_width="wrap_content" android:layout_height="wrap_content" />
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
 	    </LinearLayout>
 		
 	</LinearLayout>    

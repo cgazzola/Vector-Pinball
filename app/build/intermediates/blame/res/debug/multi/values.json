@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "/Users/devmachine/Desktop/Vector-Pinball/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+=======
+        "outputFile": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
         "map": [
             {
                 "to": {
@@ -11,6 +15,7 @@
                     "endOffset": 1342
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
@@ -18,6 +23,15 @@
                         "startOffset": 971,
                         "endColumn": 1291,
                         "endOffset": 2258
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 1291,
+                        "endOffset": 2276
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -30,6 +44,7 @@
                     "endOffset": 1394
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 2,
@@ -37,6 +52,15 @@
                         "startOffset": 55,
                         "endColumn": 51,
                         "endOffset": 102
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 51,
+                        "endOffset": 104
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -49,6 +73,7 @@
                     "endOffset": 1461
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 26,
@@ -56,6 +81,15 @@
                         "startOffset": 5582,
                         "endColumn": 67,
                         "endOffset": 5644
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 5,
+                        "startOffset": 5608,
+                        "endColumn": 67,
+                        "endOffset": 5670
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -68,6 +102,7 @@
                     "endOffset": 1520
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 29,
@@ -75,6 +110,15 @@
                         "startOffset": 5756,
                         "endColumn": 55,
                         "endOffset": 5810
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 5785,
+                        "endColumn": 55,
+                        "endOffset": 5839
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -87,6 +131,7 @@
                     "endOffset": 1571
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
@@ -94,6 +139,15 @@
                         "startOffset": 5646,
                         "endColumn": 47,
                         "endOffset": 5692
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 5673,
+                        "endColumn": 47,
+                        "endOffset": 5719
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -106,6 +160,7 @@
                     "endOffset": 1663
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
@@ -113,6 +168,15 @@
                         "startOffset": 577,
                         "endColumn": 91,
                         "endOffset": 664
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endColumn": 91,
+                        "endOffset": 674
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -125,6 +189,7 @@
                     "endOffset": 1755
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
@@ -132,6 +197,15 @@
                         "startOffset": 485,
                         "endColumn": 91,
                         "endOffset": 572
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 494,
+                        "endColumn": 91,
+                        "endOffset": 581
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -144,6 +218,7 @@
                     "endOffset": 1820
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
@@ -151,6 +226,15 @@
                         "startOffset": 420,
                         "endColumn": 64,
                         "endOffset": 480
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endColumn": 64,
+                        "endOffset": 488
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -163,6 +247,7 @@
                     "endOffset": 1919
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
@@ -170,6 +255,15 @@
                         "startOffset": 320,
                         "endColumn": 98,
                         "endOffset": 414
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 98,
+                        "endOffset": 420
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -182,6 +276,7 @@
                     "endOffset": 2046
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
@@ -189,6 +284,15 @@
                         "startOffset": 193,
                         "endColumn": 126,
                         "endOffset": 315
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endColumn": 126,
+                        "endOffset": 320
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -201,6 +305,7 @@
                     "endOffset": 2127
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
@@ -208,6 +313,15 @@
                         "startOffset": 112,
                         "endColumn": 80,
                         "endOffset": 188
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 80,
+                        "endOffset": 192
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -220,6 +334,7 @@
                     "endOffset": 2189
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 13,
@@ -227,6 +342,15 @@
                         "startOffset": 725,
                         "endColumn": 61,
                         "endOffset": 782
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 738,
+                        "endColumn": 61,
+                        "endOffset": 795
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -239,6 +363,7 @@
                     "endOffset": 2254
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
@@ -246,6 +371,15 @@
                         "startOffset": 5694,
                         "endColumn": 61,
                         "endOffset": 5754
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 5722,
+                        "endColumn": 61,
+                        "endOffset": 5782
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -258,6 +392,7 @@
                     "endOffset": 2311
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
@@ -265,6 +400,15 @@
                         "startOffset": 787,
                         "endColumn": 56,
                         "endOffset": 839
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 56,
+                        "endOffset": 853
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -277,6 +421,7 @@
                     "endOffset": 2362
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
@@ -284,6 +429,15 @@
                         "startOffset": 674,
                         "endColumn": 50,
                         "endOffset": 720
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 50,
+                        "endOffset": 732
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -296,6 +450,7 @@
                     "endOffset": 2983
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
@@ -303,6 +458,15 @@
                         "startOffset": 2261,
                         "endColumn": 617,
                         "endOffset": 2877
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 2281,
+                        "endColumn": 617,
+                        "endOffset": 2897
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -315,6 +479,7 @@
                     "endOffset": 3595
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
@@ -322,6 +487,15 @@
                         "startOffset": 2879,
                         "endColumn": 608,
                         "endOffset": 3486
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 2900,
+                        "endColumn": 608,
+                        "endOffset": 3507
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -334,6 +508,7 @@
                     "endOffset": 4277
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
@@ -341,6 +516,15 @@
                         "startOffset": 3491,
                         "endColumn": 681,
                         "endOffset": 4168
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3513,
+                        "endColumn": 681,
+                        "endOffset": 4190
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -353,6 +537,7 @@
                     "endOffset": 4975
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
@@ -360,6 +545,15 @@
                         "startOffset": 4173,
                         "endColumn": 697,
                         "endOffset": 4866
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 4196,
+                        "endColumn": 697,
+                        "endOffset": 4889
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -372,6 +566,7 @@
                     "endOffset": 5684
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
@@ -379,6 +574,15 @@
                         "startOffset": 4871,
                         "endColumn": 708,
                         "endOffset": 5575
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 4895,
+                        "endColumn": 708,
+                        "endOffset": 5599
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -391,6 +595,7 @@
                     "endOffset": 5750
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
@@ -398,6 +603,15 @@
                         "startOffset": 5812,
                         "endColumn": 62,
                         "endOffset": 5873
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 5842,
+                        "endColumn": 62,
+                        "endOffset": 5903
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -410,6 +624,7 @@
                     "endOffset": 5817
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
@@ -417,6 +632,15 @@
                         "startOffset": 903,
                         "endColumn": 66,
                         "endOffset": 965
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 919,
+                        "endColumn": 66,
+                        "endOffset": 981
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -429,6 +653,7 @@
                     "endOffset": 5876
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
@@ -436,6 +661,15 @@
                         "startOffset": 844,
                         "endColumn": 58,
                         "endOffset": 898
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 58,
+                        "endOffset": 913
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             },
@@ -448,6 +682,7 @@
                     "endOffset": 5962
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "/Users/devmachine/Desktop/Vector-Pinball/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 2,
@@ -455,6 +690,15 @@
                         "startOffset": 55,
                         "endColumn": 92,
                         "endOffset": 143
+=======
+                    "file": "C:\\Users\\Ty\\StudioProjects\\Vector-Pinball2\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 92,
+                        "endOffset": 145
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
                     }
                 }
             }

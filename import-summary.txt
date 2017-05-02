@@ -7,6 +7,7 @@ The following files were *not* copied into the new Gradle project; you
 should evaluate whether these are still needed in your project and if
 so manually move them:
 
+<<<<<<< HEAD
 * .idea/
 * .idea/compiler.xml
 * .idea/copyright/
@@ -142,12 +143,26 @@ so manually move them:
 * gradlew
 * gradlew.bat
 * settings.gradle
+=======
+* .idea\
+* .idea\compiler.xml
+* .idea\copyright\
+* .idea\copyright\profiles_settings.xml
+* .idea\misc.xml
+* .idea\vcs.xml
+* .idea\workspace.xml
+* COPYING.txt
+* README.md
+* Vector-Pinball.iml
+* devnotes.txt
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
 
 Moved Files:
 ------------
 Android Gradle projects use a different directory structure than ADT
 Eclipse projects. Here's how the projects were restructured:
 
+<<<<<<< HEAD
 * AndroidManifest.xml => app/src/main/AndroidManifest.xml
 * assets/ => app/src/main/assets/
 * libs/armeabi-v7a/libgdx-box2d.so => app/src/main/jniLibs/armeabi-v7a/libgdx-box2d.so
@@ -157,6 +172,17 @@ Eclipse projects. Here's how the projects were restructured:
 * libs/x86/libgdx-box2d.so => app/src/main/jniLibs/x86/libgdx-box2d.so
 * res/ => app/src/main/res/
 * src/ => app/src/main/java/
+=======
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\armeabi-v7a\libgdx-box2d.so => app\src\main\jniLibs\armeabi-v7a\libgdx-box2d.so
+* libs\armeabi\libgdx-box2d.so => app\src\main\jniLibs\armeabi\libgdx-box2d.so
+* libs\gdx-box2d.jar => app\libs\gdx-box2d.jar
+* libs\gdx.jar => app\libs\gdx.jar
+* libs\x86\libgdx-box2d.so => app\src\main\jniLibs\x86\libgdx-box2d.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
 
 Next Steps:
 -----------

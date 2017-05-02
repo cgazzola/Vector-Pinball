@@ -28,6 +28,11 @@
 	<string name="help_button_label">Help</string>
 	<string name="preferences_button_label">Preferences</string>
 	<string name="end_game_button_label">End Game</string>
+<<<<<<< HEAD
 	<string name="unlimited_balls_label">Unlimited Balls</string>
+=======
+    <string name="vibration_label">Vibration</string>
+    <string name="unlimited_balls_label">Unlimited Balls</string>
+>>>>>>> 2668be85e3a629d93cc59f78ce13910dc8465ae4
 
 </resources>
